@@ -1,0 +1,255 @@
+body {
+  margin: 0;
+  background-color: #FCF9F0;
+  color: #40514E;
+}
+
+.HeadingMain {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3.5rem;
+  margin-top: 30px;
+  line-height: 1.2;
+}
+
+p {
+  line-height: 2;
+}
+
+div {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  padding: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.cloud {
+  position:relative;
+  margin-left: 10%;
+  width: 20%;
+  top: 10%;
+  height: auto;
+  display: block;
+}
+
+.cloud2 {
+  position:relative;
+  margin-left: 70%;
+  width: 20%;
+  top: 10%;
+  height: auto;
+  display: block;
+}
+
+
+.para1 {
+  text-align: center;
+  margin-top: 0;
+  font-family: 'Bebas Neue', monospace;
+  font-size: 1.5rem;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+hr {
+  border:dotted #000000 6px;
+  border-bottom: none;
+  max-width: 4%;
+  margin: 100px auto;
+}
+
+.dp {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.hellotitle {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  width: 50%;
+  margin: auto;
+}
+
+.intro {
+  text-align: justify;
+  font-family: 'Public Sans', sans-serif;
+  width: 50%;
+  margin: auto;
+}
+
+.myskillstitle {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  width: 50%;
+  margin: auto;
+  font-weight: normal;
+}
+
+.skillpara {
+  text-align: justify;
+  font-family: 'Public Sans', sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skilldp {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+  float: left;
+  max-width: 30%;
+  padding:10px 20px 10px 0;
+
+}
+
+
+.lastpara {
+  text-align: justify;
+  font-family: 'Public Sans', sans-serif;
+  margin-left:0;
+  margin-right:0;
+}
+
+.skillrowtitle {
+  text-align: left;
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: normal;
+}
+
+.mytooltitle {
+  text-align: left;
+  font-family: 'Public Sans', sans-serif;
+  color: #11999E;
+  width: 100%;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.mytoolpara {
+  text-align:justify;
+  font-family: 'Public Sans', sans-serif;
+  margin-left:0;
+  margin-right:0;
+
+}
+
+
+
+.headercont {
+  margin-top: 10px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+
+}
+
+
+.pcdp {
+  display: block;
+  margin-left: 25px;
+  margin-right: 0;
+  float: right;
+  max-width: 30%;
+  padding:0 0 0 0;
+
+}
+
+
+.headercont {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.getintouchtitle {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footerline {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fotterline2 {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-me {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom-container {
+  text-align: center;
+  font-family: 'Public Sans', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #11999E;
+  margin-top: 20px;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.footer-link {
+  text-decoration: none;
+  word-spacing: normal;
+  padding:10px;
+  color: #FCF9F0;
+}
+
+.footersign {
+  color: #FCF9F0;
+  background: #11999E;
+  text-decoration: none;
+}
+
+
+.btn {
+  color: #11999E;
+}
+
+a:link {
+  text-decoration: none;
+}
